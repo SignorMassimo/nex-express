@@ -1,0 +1,16 @@
+{
+    "scripts": [
+        "bun init -y",
+        "bun init -y",
+        "bun init -y",
+        "bun init -y",
+        "bun init -y",
+        "bun init",
+        "bun init",
+        "bun init",
+        "bun init",
+        "bun init",
+        "bun install express"
+    ],
+    "routes": "."
+}
