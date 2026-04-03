@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "bun init -y",
+        "bun install express"
+    ],
+    "routes": "."
+}
