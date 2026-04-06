@@ -1,0 +1,8 @@
+{
+    "scripts": [
+        "bun install express",
+        "bun recipe/nex-express/init.js"
+    ],
+    "routes": ".",
+    "helper.js": "helper/"
+}
