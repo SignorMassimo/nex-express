@@ -1,0 +1,15 @@
+{
+    "name": "nex-express",
+    "version": "0.0.7",
+    "description": "This is an express user route recipe package",
+    "setup": {
+        "scripts": [
+            "bun install express",
+            "bun recipes/nex-express/init.js"
+        ],
+        "files": {
+            "routes": ".",
+            "helper.js": "helper/"
+        }
+    }
+}
